@@ -9,3 +9,6 @@ Study note of AI compiler.
 
 ## Github
 - 神经网络学习笔记：https://github.com/whyscience/CS231n-Note-Translation_CN
+
+## 个人学习笔记
+- 1. 用于深度神经网络推理的内存管理方法（https://zhuanlan.zhihu.com/p/634560526）
