@@ -12,3 +12,7 @@ Study note of AI compiler.
 
 ## 个人学习笔记
 - 1. 用于深度神经网络推理的内存管理方法（https://zhuanlan.zhihu.com/p/634560526）
+
+### 参考博客：
+- Lenet：卷积神经网络经典回顾之LeNet-5（https://zhuanlan.zhihu.com/p/616996325）
+- AlexNet：（手撕 CNN 经典网络之 AlexNet（理论篇）https://zhuanlan.zhihu.com/p/467017218）
