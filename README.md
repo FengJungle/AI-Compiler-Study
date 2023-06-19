@@ -16,3 +16,6 @@ Study note of AI compiler.
 ### 参考博客：
 - Lenet：卷积神经网络经典回顾之LeNet-5（https://zhuanlan.zhihu.com/p/616996325）
 - AlexNet：（手撕 CNN 经典网络之 AlexNet（理论篇）https://zhuanlan.zhihu.com/p/467017218）
+- VGG：
+    - 深度学习经典卷积神经网络之VGGNet（https://blog.csdn.net/marsjhao/article/details/72955935）
+    - 一文读懂VGG网络（https://zhuanlan.zhihu.com/p/41423739）
