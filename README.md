@@ -23,3 +23,6 @@ Study note of AI compiler.
     - MobileNet网络详解（https://blog.csdn.net/qq_44708206/article/details/127644989 ）
     - 【轻量级网络】MobileNet-v2详解（https://blog.csdn.net/Roaddd/article/details/111416386 ）
     - 知乎：如何评价mobilenet v2 ?（https://www.zhihu.com/question/265709710 ）
+- DenseNet：
+    - 经典网络DenseNet介绍（https://blog.csdn.net/fengbingchun/article/details/114493591 ）
+    - 深入解析DenseNet(含大量可视化及计算)（https://zhuanlan.zhihu.com/p/141178215 ）
