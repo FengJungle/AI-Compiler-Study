@@ -28,3 +28,4 @@ Study note of AI compiler.
     - 深入解析DenseNet(含大量可视化及计算)（https://zhuanlan.zhihu.com/p/141178215 ）
 - Resnet:
     - 你必须要知道CNN模型：ResNet(https://zhuanlan.zhihu.com/p/31852747 )
+    - ResNet详解——通俗易懂版(https://blog.csdn.net/sunny_yeah_/article/details/89430124 )
