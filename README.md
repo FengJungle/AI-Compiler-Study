@@ -26,3 +26,5 @@ Study note of AI compiler.
 - DenseNet：
     - 经典网络DenseNet介绍（https://blog.csdn.net/fengbingchun/article/details/114493591 ）
     - 深入解析DenseNet(含大量可视化及计算)（https://zhuanlan.zhihu.com/p/141178215 ）
+- Resnet:
+    - 你必须要知道CNN模型：ResNet(https://zhuanlan.zhihu.com/p/31852747 )
