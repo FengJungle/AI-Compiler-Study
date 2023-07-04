@@ -29,3 +29,5 @@ Study note of AI compiler.
 - Resnet:
     - 你必须要知道CNN模型：ResNet(https://zhuanlan.zhihu.com/p/31852747 )
     - ResNet详解——通俗易懂版(https://blog.csdn.net/sunny_yeah_/article/details/89430124 )
+- Yolo
+    - YOLO模型详解(https://zhuanlan.zhihu.com/p/624060603 )
