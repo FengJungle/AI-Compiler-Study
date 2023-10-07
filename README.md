@@ -9,6 +9,9 @@ Study note of AI compiler.
 
 - 《计算机组成原理》哈工大刘宏伟：https://www.bilibili.com/video/BV1t4411e7LH/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=950d4bedf3ff9f614b11c23c95c49342
 
+- 《操作系统原理》清华：https://www.bilibili.com/video/BV1uW411f72n/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=950d4bedf3ff9f614b11c23c95c49342
+
+
 
 ## Github
 - 神经网络学习笔记：https://github.com/whyscience/CS231n-Note-Translation_CN
